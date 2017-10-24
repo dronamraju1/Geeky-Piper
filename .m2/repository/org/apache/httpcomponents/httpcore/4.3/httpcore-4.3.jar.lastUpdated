@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 19 10:02:09 PDT 2017
+http\://build.thejermans.com/maven/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.3 from/to dreamhost (http\://build.thejermans.com/maven)\: Not authorized , ReasonPhrase\:Authorization Required.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1508432529565
+https\://raw.githubusercontent.com/bulldog2011/bulldog-repo/master/repo/releases/.lastUpdated=1508432514746
+https\://raw.githubusercontent.com/bulldog2011/bulldog-repo/master/repo/releases/.error=
+@default-dreamhost-http\://build.thejermans.com/maven/.lastUpdated=1508432515727
